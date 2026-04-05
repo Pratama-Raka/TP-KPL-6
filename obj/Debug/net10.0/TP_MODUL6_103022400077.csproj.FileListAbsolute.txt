@@ -1,0 +1,15 @@
+C:\Users\prata\Documents\TP KPL\TP_MODUL6_103022400077\bin\Debug\net10.0\TP_MODUL6_103022400077.exe
+C:\Users\prata\Documents\TP KPL\TP_MODUL6_103022400077\bin\Debug\net10.0\TP_MODUL6_103022400077.deps.json
+C:\Users\prata\Documents\TP KPL\TP_MODUL6_103022400077\bin\Debug\net10.0\TP_MODUL6_103022400077.runtimeconfig.json
+C:\Users\prata\Documents\TP KPL\TP_MODUL6_103022400077\bin\Debug\net10.0\TP_MODUL6_103022400077.dll
+C:\Users\prata\Documents\TP KPL\TP_MODUL6_103022400077\bin\Debug\net10.0\TP_MODUL6_103022400077.pdb
+C:\Users\prata\Documents\TP KPL\TP_MODUL6_103022400077\obj\Debug\net10.0\TP_MODUL6_103022400077.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prata\Documents\TP KPL\TP_MODUL6_103022400077\obj\Debug\net10.0\TP_MODUL6_103022400077.AssemblyInfoInputs.cache
+C:\Users\prata\Documents\TP KPL\TP_MODUL6_103022400077\obj\Debug\net10.0\TP_MODUL6_103022400077.AssemblyInfo.cs
+C:\Users\prata\Documents\TP KPL\TP_MODUL6_103022400077\obj\Debug\net10.0\TP_MODUL6_103022400077.csproj.CoreCompileInputs.cache
+C:\Users\prata\Documents\TP KPL\TP_MODUL6_103022400077\obj\Debug\net10.0\TP_MODUL6_103022400077.sourcelink.json
+C:\Users\prata\Documents\TP KPL\TP_MODUL6_103022400077\obj\Debug\net10.0\TP_MODUL6_103022400077.dll
+C:\Users\prata\Documents\TP KPL\TP_MODUL6_103022400077\obj\Debug\net10.0\refint\TP_MODUL6_103022400077.dll
+C:\Users\prata\Documents\TP KPL\TP_MODUL6_103022400077\obj\Debug\net10.0\TP_MODUL6_103022400077.pdb
+C:\Users\prata\Documents\TP KPL\TP_MODUL6_103022400077\obj\Debug\net10.0\TP_MODUL6_103022400077.genruntimeconfig.cache
+C:\Users\prata\Documents\TP KPL\TP_MODUL6_103022400077\obj\Debug\net10.0\ref\TP_MODUL6_103022400077.dll
